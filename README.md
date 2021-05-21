@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Maintain a steeep learning curve and be better at things I do.
 - ⚡ Fun fact: I love to workout and stay fit 🏋️!!!
+- 📧 Gmail: yashpatil454@gmail.com
 
 ### ✉️ Find me on:
 
