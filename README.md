@@ -2,9 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😎+Yash+here!!!;Thank+you+for+visting+my+profile!;Take+a+look+at+my+repoos!;Have+a+nicee+day!&center=true&width=360&height=50">
 </p>
 
-## I'm a Developer, Problem solver, and an Enthusiastic learner!!
+## I'm a Developer, Tester, Problem solver, and an Enthusiastic learner!!
 
-- 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Maintain a steeep learning curve and be better at things I do.
 - ⚡ Fun fact: I love to workout and stay fit 🏋️!!!
 - 📧 Gmail: yashpatil454@gmail.com
