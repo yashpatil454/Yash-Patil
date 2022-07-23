@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😎+Yash+here!!!;Thank+you+for+visting+my+profile!;Take+a+look+at+my+repoos!;Have+a+nicee+day!&center=true&width=360&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+😎+Yash+here!!!;Thank+you+for+visting+my+profile!;Take+a+look+at+my+repositoriess!;Have+a+nicee+day!&center=true&width=360&height=50">
 </p>
 
 ## I'm a Developer, Tester, Problem solver, and an Enthusiastic learner!!
@@ -37,4 +37,3 @@
 
 <br />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yashpatil454&show_icons=true&theme=chartreuse-dark)
