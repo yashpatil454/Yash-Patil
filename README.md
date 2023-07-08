@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Tester, Problem solver, and an Enthusiastic learner!!
 
-- 🥅 2022 Goals: Maintain a steeep learning curve and be better at things I do.
+- 🥅 2023 Goals: Maintain a steeep learning curve and be better at things I do.
 - ⚡ Fun fact: I love to workout and stay fit 🏋️!!!
 - 📧 Gmail: yashpatil454@gmail.com
 
